@@ -5,7 +5,7 @@ Jag ändrade strängen "app_name" i "strings.xml" från "Hello" till "Nånting n
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](android.png)
+![](Screenshot_20240325_143928.png)
 
 Läs gärna:
 
